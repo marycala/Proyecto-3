@@ -1,0 +1,10 @@
+header > nav {
+  width: 60%;
+}
+
+header ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: 500;
+}

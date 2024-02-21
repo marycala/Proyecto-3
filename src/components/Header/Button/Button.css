@@ -1,0 +1,8 @@
+#boton {
+  min-width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  border-style: none;
+  cursor: pointer;
+  margin-left: 5px;
+}

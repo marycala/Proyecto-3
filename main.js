@@ -1,1 +1,7 @@
 import './style.css'
+import './src/components/Header/NavBar/NavBar'
+import './src/components/Header/Input/Input'
+import './src/components/Header/Button/Button'
+import './src/components/Main/Gallery/Gallery'
+import './src/components/Main/Filter/Filter'
+import './src/components/Footer/Footer'
